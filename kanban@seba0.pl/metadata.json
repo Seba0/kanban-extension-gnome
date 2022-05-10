@@ -1,0 +1,10 @@
+{
+  "name": "Kanban",
+  "description": " Kanban for the GNOME Shell desktop.",
+  "uuid": "kanban@seba0.pl",
+  "shell-version": [
+    "3.36"
+  ],
+  "url": "https://github.com/Seba0/kanban-extension-gnome",
+  "version": 0
+}
